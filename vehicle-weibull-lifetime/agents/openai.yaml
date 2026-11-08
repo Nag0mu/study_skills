@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vehicle Weibull Lifetime"
+  short_description: "两参数 Weibull 车辆寿命参数推导与应用"
+  default_prompt: "Use $vehicle-weibull-lifetime to derive, validate, or apply vehicle Weibull lifetime parameters."
+policy:
+  allow_implicit_invocation: true

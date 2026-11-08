@@ -1,0 +1,4 @@
+interface:
+  display_name: "City Vehicle Panel Completion"
+  short_description: "Fill missing city-year vehicle ownership data with auditable saturation models."
+  default_prompt: "Use $city-vehicle-panel-completion to inspect my vehicle ownership panel and its text encoding, fill missing city-year values, preserve Unicode city names, reconcile regional totals if available, and produce completed tables plus a quality report."
